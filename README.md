@@ -1,3 +1,3 @@
-# Array Of-Products
+# Array Of Products
 
 Implementation in Java
